@@ -1,5 +1,4 @@
 <h1 align="center">Heyyy im <b>Yaru</b></h1>
----
 
 ## What about me
 - i can code basic shit
