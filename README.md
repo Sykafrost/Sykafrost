@@ -28,7 +28,7 @@
 
 ## Contact
 - Name **Yaru**
-- Username: **yaruteperdoa**
+- Username: **yaruskid**
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/98/6b/e9/986be95344506f770527f55549602e6f.jpg" width="280" style="border-radius: 15px;">
