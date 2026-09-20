@@ -180,7 +180,7 @@ Experimenting with interfaces, scripting, and making tools that don't look like 
 
 <div align="center">
 
-**wanna talk, collaborate, or send me some cursed code?**
+**wanna talk, collaborate, or send me some code to me skid?**
 
 <br>
 
